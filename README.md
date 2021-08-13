@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Instagram = (Sumitnaveen029)
+- -> YouTube = coding chemist
 
 <!---
 sumit1029/sumit1029 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
