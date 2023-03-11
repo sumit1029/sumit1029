@@ -15,7 +15,7 @@
 Hi, I am Sumit Kumar a self-taught Developer, College student and a part time YouTuber. I am a passionate and ethusiastic coder from India and I have
 explored many tools and technologies in development on my own.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="giphy.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:collabwithchemist@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
