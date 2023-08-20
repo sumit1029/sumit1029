@@ -1,14 +1,12 @@
 ### hey there 
 <a href="https://www.instagram.com/Sumitnaveen029/">
-  <img align="left" alt="Sumit's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Sumit's Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1024px-Instagram_logo_2022.svg.png" />
 </a>
 <a href="https://www.youtube.com/@codingchemist/">
-  <img align="left" alt="Sumit's YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Sumit's YouTube" width="30px" src="https://www.iconpacks.net/icons/2/free-youtube-logo-icon-2431-thumb.png" />
 <a href="https://www.linkedin.com/in/sumit-kumar-56b30a202/">
-  <img align="left" alt="Sumit's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Sumit's LinkedIN" width="30px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=sumit1029.sumit1029)
 
 <br />
 
